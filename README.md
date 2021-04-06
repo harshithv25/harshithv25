@@ -1,4 +1,4 @@
-[![Harshith's GitHub Banner](./assets/GitHubBanner.png)](https://harshithv25.netlify.app)
+[![Harshith's GitHub Banner](./assets/GitHubHeader.png)](https://harshithv25.netlify.app)
 
 [![Visits Badge](https://badges.pufler.dev/visits/harshithv25/harshithv25)](https://harshithv25.netlify.app)
 [![Repos Badge](https://badges.pufler.dev/repos/harshithv25)](https://github.com/harshithv25)
@@ -21,4 +21,4 @@ Want to know more about me? [Check out my portfolio.](https://harshithv25.netlif
 
 [![Harshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshithv25)](https://github.com/harshithv25)
 
-Want to know about how I made this custom profile? [Check out this tutorial.]('https://daily.dev/blog/creating-a-killer-github-profile-readme-part-1')
+Want to know about how I made this custom profile? [Check out this tutorial.](https://daily.dev/blog/creating-a-killer-github-profile-readme-part-1)
