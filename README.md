@@ -1,4 +1,4 @@
-[![Harshith's GitHub Banner](./GitHubHeader.png)](https://harshithv25.netlify.app)
+[![Harshith's GitHub Banner](https://github.com/harshithv25/ICONS/blob/master/GithubHeader.png?raw=true)](https://harshithv25.netlify.app)
 
 [![Visits Badge](https://badges.pufler.dev/visits/harshithv25/harshithv25)](https://harshithv25.netlify.app)
 [![Repos Badge](https://badges.pufler.dev/repos/harshithv25)](https://github.com/harshithv25)
