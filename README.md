@@ -18,5 +18,3 @@ Want to know more about me? [Check out my portfolio.](https://harshithv25.netlif
 ## Github Stats 📃
 
 [![Harshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshithv25)](https://github.com/harshithv25)
-
-Want to know about how I made this custom profile? [Check out this tutorial.](https://daily.dev/blog/creating-a-killer-github-profile-readme-part-1)
